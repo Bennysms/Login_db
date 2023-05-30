@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$dbname = "compte";
-$username ="root";
-$pawd ="root";
+$dbname = "id20689102_compte";
+$username ="id20689102_benny";
+$pawd ="Bennysimisi2023@";
 $dsn = "mysql:dbname=".$dbname.";host=".$host;
 
 
